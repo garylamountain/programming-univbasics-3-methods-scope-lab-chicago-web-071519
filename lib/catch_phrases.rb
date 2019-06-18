@@ -1,3 +1,8 @@
-def catch_phrase(phrase)
+def mario
+  status = 'Thank You io! But Our Princess Is In Another Castle!'
   puts phrase
-endz
+end
+
+def toadstool
+  puts status
+end
